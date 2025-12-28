@@ -69,10 +69,7 @@ sns.jointplot(x='Age',y='Fare',data=df,kind='kde')
 <img width="1030" height="638" alt="Screenshot 2025-12-28 084406" src="https://github.com/user-attachments/assets/4d6bee28-fef5-4404-8b0f-ef792d061843" />
 
 sns.jointplot(x='Age',y='Fare',data=df,kind='hist') 
-<img width="1043" height="630" alt="Screenshot 2025-12-28 084429" src="https://github.com/user-attachments/assets/0b1533f7-fc1e-4b90-84cd-6626000adb68" />
-
-
-     <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+<img width="1043" height="630" alt="Screenshot 2025-12-28 084429" src="https://github.com/user-attachments/assets/68db927a-538b-47f6-bacf-c463ba1df6ba" />
 
 # RESULT
 The EDA process has been done successfully
